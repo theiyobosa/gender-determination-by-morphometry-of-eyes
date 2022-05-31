@@ -38,6 +38,6 @@ After each fold of the dataset was trained, the model had to be saved, and then 
 
 <h2>Aftermath</h2>
 
-After training, the model had a validation accuracy of <b>97 percent</b>. The test dataset with which the datathon was graded on, had an accuracy of <b>94 percent</b>. The test dataset prediction file that was submitted for grading is presented here as <b>submission_fold5.csv</b>. While the <b>model_kfold_fold5.h5</b> file is the trained Tensorflow model. 
+After training, the model had an F1 score of <b>0.97</b>. The test dataset prediction file that was submitted for grading is presented here as <b>submission_fold5.csv</b>. While the <b>model_kfold_fold5.h5</b> file is the trained Tensorflow model. 
 
 The leaderboard for the challenge can be found <a href="https://dphi.tech/challenges/gender-determination-by-morphometry-of-eyes/144/leaderboard/datathon/">here</a>, my name there is "<b>theiyobosa</b>", same as my GitHub name.
